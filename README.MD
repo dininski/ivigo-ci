@@ -1,1 +1,1 @@
-# Just a simple readme
+# Just a simple readme [![Build Status](https://travis-ci.org/dininski/ivigo-ci.svg?branch=master)](https://travis-ci.org/dininski/ivigo-ci)
