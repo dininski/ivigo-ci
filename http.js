@@ -10,6 +10,6 @@ const server = http.createServer(function(request, response) {
     response.end(greeting);
 });
 
-server.listen(80, function() {
+server.listen(process.env.PORT || 80, function() {
   console.log("Server started");
 });
